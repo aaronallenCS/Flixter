@@ -20,7 +20,7 @@
 
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://imgur.com/k2sOL2x" width=250><br>
+<img src="https://media.giphy.com/media/jYOruc69K7KcTI1NDt/giphy.gif" width=250><br>
 
 ### Notes
 CHANGED UI, Now, all hot movies are displayed first, with fire icons denoting they are hot movies. 
